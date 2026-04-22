@@ -69,10 +69,11 @@ The Streamlit dashboard provides:
 * `merged.csv` → Processed dataset
 * `outputs/` → Charts and visuals
 
-  ## 📊 Output Charts
 
-### Average PnL by Sentiment
-![PnL Chart](![PnL](Outputs/pnl_chart.png))
+## 📊 Output Charts
+
+### Average PnL
+![PnL](Outputs/pnl_chart.png)
 
 ### Trade Frequency
-![Trade Frequency](outputs/trade_freq.png)
+![Trades](Outputs/trade_freq.png)
