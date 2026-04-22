@@ -72,7 +72,7 @@ The Streamlit dashboard provides:
   ## 📊 Output Charts
 
 ### Average PnL by Sentiment
-![PnL Chart](outputs/pnl_chart.png)
+![PnL Chart]([outputs/pnl_chart.png](https://github.com/vanshikachauhan891-crypto/Trader-sentiment-analysis/blob/main/Outputs/pnl_chart.png))
 
 ### Trade Frequency
 ![Trade Frequency](outputs/trade_freq.png)
