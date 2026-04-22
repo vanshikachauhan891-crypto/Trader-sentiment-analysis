@@ -68,3 +68,11 @@ The Streamlit dashboard provides:
 * `app.py` → Streamlit dashboard
 * `merged.csv` → Processed dataset
 * `outputs/` → Charts and visuals
+
+  ## 📊 Output Charts
+
+### Average PnL by Sentiment
+![PnL Chart](outputs/pnl_chart.png)
+
+### Trade Frequency
+![Trade Frequency](outputs/trade_freq.png)
