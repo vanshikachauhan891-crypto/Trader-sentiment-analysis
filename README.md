@@ -72,7 +72,7 @@ The Streamlit dashboard provides:
   ## 📊 Output Charts
 
 ### Average PnL by Sentiment
-![PnL Chart](![PnL](outputs/pnl_chart.png))
+![PnL Chart](![PnL](Outputs/pnl_chart.png))
 
 ### Trade Frequency
 ![Trade Frequency](outputs/trade_freq.png)
